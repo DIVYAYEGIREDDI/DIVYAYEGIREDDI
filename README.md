@@ -1,3 +1,3 @@
 ### Hi there 👋 I’m Divya Yegireddi✨...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIVYAYEGIREDDI&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyaYegireddi&show_icons=true&theme=radical)
